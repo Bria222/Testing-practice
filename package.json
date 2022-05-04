@@ -1,0 +1,22 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "description": "Learning objectives\r - Write unit tests for a JavaScript app.\r - Use AAA pattern for unit tests.\r - Explain why testing code is important.",
+  "main": "reverseString.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bria222/Testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bria222/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/Bria222/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
